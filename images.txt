@@ -8,8 +8,8 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
 alpine
-rockylinux
-ubuntu
+rockylinux:latest
+ubuntu:latest
 mikolatero/vlmcsd
 frooodle/s-pdf
 vvbbnn00/warp-clash-api
