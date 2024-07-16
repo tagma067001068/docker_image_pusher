@@ -15,3 +15,7 @@ frooodle/s-pdf
 vvbbnn00/warp-clash-api
 derkades/webdav
 corentinth/it-tools
+analogic/poste.io
+openanolis/anolisos
+portainer/portainer-ce
+registry
